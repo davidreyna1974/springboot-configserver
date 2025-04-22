@@ -2,7 +2,7 @@ build:
   version: "10.0"
 
 loans:
-  message: "Welcome to EazyBank loans related PROD APIs "
+  message: "Welcome to EazyBank loans DOCKERS WEBHOOK PROD APIs "
   contactDetails:
     name: "DAVID REYNA PINEDA - Product Owner"
     email: "pelias@eazybank.com"
