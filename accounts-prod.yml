@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related PROD APIs "
+  message: "Welcome to EazyBank accounts RELATED WEBHOOKS APIs "
   contactDetails:
     name: "{cipher}6a8b8aef1142b2f3abd1dbeabbb19b91914d8bd4d93455ad68d832d077085e5d114ba735178269e7d09318da9a37721f"
     email: "{cipher}f41d8ce1f009ee5f1c14d1e4da002be8d7fe35d639a96d6b797533f3709cee39d2ca23a5cc73d59c8cab13f92e8343f7"
